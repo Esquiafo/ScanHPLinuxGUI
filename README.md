@@ -1,2 +1,4 @@
 # ScanHPLinuxGUI
-Scan Image Linux GUI HP Simple Scans
+This is a simple GUI for Scanimage Linux Package Tool.
+
+## DONT FORGET TO MOVE THE PATHS OR ADD SCANS FOLDER 
